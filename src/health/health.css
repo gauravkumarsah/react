@@ -1,0 +1,25 @@
+.table-body {
+  border: 1px solid #ccc;
+}
+
+.row {
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: start;
+  gap: 10px;
+}
+
+.row-data {
+  border: 1px solid #ccc;
+  align-items: start;
+}
+
+.red {
+  background-color: red;
+}
+
+.row-data {
+    border: 1px solid red;
+  }
+
+
