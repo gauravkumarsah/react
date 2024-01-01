@@ -1,12 +1,11 @@
 import './App.css';
-import IBM from './IBM';
+import Sosuv from './sosuv';
 
 function App() {
   return (
-    <div className="App">
-      <IBM />
-    </div>
+    <>
+      <Sosuv />
+    </>
   );
 }
-
 export default App;
