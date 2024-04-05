@@ -1,11 +1,8 @@
-import './App.css';
-import Sosuv from './sosuv';
+import React from 'react';
+import Cars from './cars24';
 
 function App() {
-  return (
-    <>
-      <Sosuv />
-    </>
-  );
+  return <Cars />;
 }
+
 export default App;
